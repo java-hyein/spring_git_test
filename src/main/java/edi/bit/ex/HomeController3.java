@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class HomeController3 {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController3.class);
-	
+	//1¹ø Ãß°¡
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
